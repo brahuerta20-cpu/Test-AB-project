@@ -1,7 +1,7 @@
 # Prueba A/B para incrementar ingresos.
 Prueba A/B para incrementar ingresos de una tienda online.
 
-Una gran tienda online busca incrementar sus ingresos mediante la optimización de sus estrategias de marketing. En colaboración con el departamento de marketing, se recopiló un conjunto de hipótesis orientadas a mejorar el desempeño comercial y aumentar las conversiones de los usuarios en la plataforma.
+Una gran tienda online buscaba incrementar sus ingresos mediante la optimización de sus estrategias de marketing. En colaboración con el departamento de marketing, se recopiló un conjunto de hipótesis orientadas a mejorar el desempeño comercial y aumentar las conversiones de los usuarios en la plataforma.
 
 Mi responsabilidad consistió en priorizar las hipótesis identificadas para determinar cuáles tenían mayor potencial de impacto en los ingresos, diseñar y ejecutar un experimento A/B para validar las propuestas seleccionadas, y analizar los resultados obtenidos para generar recomendaciones basadas en datos. Adicionalmente, fue necesario garantizar la calidad y confiabilidad de la información mediante un proceso exhaustivo de preprocesamiento de datos.
 
